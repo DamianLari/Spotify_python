@@ -1,0 +1,154 @@
+[
+    {
+        "album_type": "single",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+                },
+                "href": "https://api.spotify.com/v1/artists/5QXLMdpKeByOo5ypH9gT13",
+                "id": "5QXLMdpKeByOo5ypH9gT13",
+                "name": "Fantastic Negrito",
+                "type": "artist",
+                "uri": "spotify:artist:5QXLMdpKeByOo5ypH9gT13"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+                },
+                "href": "https://api.spotify.com/v1/artists/57nPqD7z62gDdq37US9XJR",
+                "id": "57nPqD7z62gDdq37US9XJR",
+                "name": "Arcane",
+                "type": "artist",
+                "uri": "spotify:artist:57nPqD7z62gDdq37US9XJR"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+                },
+                "href": "https://api.spotify.com/v1/artists/47mIJdHORyRerp4os813jD",
+                "id": "47mIJdHORyRerp4os813jD",
+                "name": "League of Legends",
+                "type": "artist",
+                "uri": "spotify:artist:47mIJdHORyRerp4os813jD"
+            }
+        ],
+        "external_urls": {
+            "spotify": "https://open.spotify.com/album/3snCBhUAddVMdN7RhKkinT"
+        },
+        "href": "https://api.spotify.com/v1/albums/3snCBhUAddVMdN7RhKkinT",
+        "id": "3snCBhUAddVMdN7RhKkinT",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732e98448b6165fa02dcbbcc18",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022e98448b6165fa02dcbbcc18",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512e98448b6165fa02dcbbcc18",
+                "width": 64
+            }
+        ],
+        "is_playable": true,
+        "name": "When Everything Went Wrong (from the series Arcane League of Legends)",
+        "release_date": "2021-11-20",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3snCBhUAddVMdN7RhKkinT"
+    },
+    {
+        "album_type": "single",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+                },
+                "href": "https://api.spotify.com/v1/artists/5QXLMdpKeByOo5ypH9gT13",
+                "id": "5QXLMdpKeByOo5ypH9gT13",
+                "name": "Fantastic Negrito",
+                "type": "artist",
+                "uri": "spotify:artist:5QXLMdpKeByOo5ypH9gT13"
+            }
+        ],
+        "external_urls": {
+            "spotify": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
+        },
+        "href": "https://api.spotify.com/v1/albums/6YqoghPHyDIIgSsAp7QFdj",
+        "id": "6YqoghPHyDIIgSsAp7QFdj",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734912a7dd928a71c6804b03ec",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024912a7dd928a71c6804b03ec",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514912a7dd928a71c6804b03ec",
+                "width": 64
+            }
+        ],
+        "is_playable": true,
+        "name": "An Honest Man",
+        "release_date": "2015-08-26",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6YqoghPHyDIIgSsAp7QFdj"
+    },
+    {
+        "album_type": "album",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+                },
+                "href": "https://api.spotify.com/v1/artists/5QXLMdpKeByOo5ypH9gT13",
+                "id": "5QXLMdpKeByOo5ypH9gT13",
+                "name": "Fantastic Negrito",
+                "type": "artist",
+                "uri": "spotify:artist:5QXLMdpKeByOo5ypH9gT13"
+            }
+        ],
+        "external_urls": {
+            "spotify": "https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS"
+        },
+        "href": "https://api.spotify.com/v1/albums/4EdNTjVzjIxYqEUGPiyiZS",
+        "id": "4EdNTjVzjIxYqEUGPiyiZS",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738c32dafc731084fac8f233ac",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028c32dafc731084fac8f233ac",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518c32dafc731084fac8f233ac",
+                "width": 64
+            }
+        ],
+        "is_playable": true,
+        "name": "Please Don't Be Dead",
+        "release_date": "2018-06-15",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:4EdNTjVzjIxYqEUGPiyiZS"
+    }
+]
