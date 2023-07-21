@@ -1,13 +1,16 @@
 import spotipy
 import json
 from spotipy.oauth2 import SpotifyClientCredentials
+import spotipy.util as util
+import spotipy.client as clt
 
 class spot:
     def __init__(self):
         self.sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
-        self.save_artist_infos('spotify:artist:5QXLMdpKeByOo5ypH9gT13')
-        self.display_albums('spotify:artist:5QXLMdpKeByOo5ypH9gT13')
-        self.display_top_tracks(3,'spotify:artist:5QXLMdpKeByOo5ypH9gT13')
+        fantastic_negrito_uri = 'spotify:artist:5QXLMdpKeByOo5ypH9gT13'
+        self.save_artist_infos(fantastic_negrito_uri)
+        self.display_albums(fantastic_negrito_uri)
+        self.display_top_tracks(3,fantastic_negrito_uri)
 
     def save_artist_infos(self, artist_uri):
         results = self.sp.artist(artist_uri)
